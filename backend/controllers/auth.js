@@ -39,6 +39,8 @@ export const register = async (req, res) => {
   }
 };
 
+const app = "asd";
+
 // logging in
 export const login = async (req, res) => {
   try {
